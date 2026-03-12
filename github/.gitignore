@@ -1,0 +1,15 @@
+# Environment files
+.env
+*.env.local
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Credentials (never commit these)
+**/credentials.json
+**/secrets.json
