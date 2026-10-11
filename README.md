@@ -532,7 +532,7 @@ User: "Show me anomalous contracts"
 **Ing. Arnold Németh** — Smart Solutions
 
 - Microsoft Power Platform & Azure AI Solutions
-- LinkedIn: https://www.linkedin.com/in/arnold-n%C3%A9meth-3b482597/
+- LinkedIn: linkedin.com/in/arnoldnemeth
 - GitHub: https://github.com/arnienemeth
 
 ---
